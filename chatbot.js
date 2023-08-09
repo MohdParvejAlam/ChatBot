@@ -217,3 +217,5 @@ resetButton.addEventListener('click', function() {
 });
 
 //<img src="https://cdn3.iconfinder.com/data/icons/avatars-round-flat/33/man5-512.png" style="border-radius:50%;width:40px;height:40px;"/>
+
+//this is the Javascript file
